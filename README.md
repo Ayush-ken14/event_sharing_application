@@ -1,1 +1,1 @@
-Event Sharing Application Using Mern stack
+Event Sharing Application Using Mern stack .
